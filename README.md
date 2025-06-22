@@ -5,7 +5,7 @@ Elle sert de base pédagogique : architecture claire, test unitaires et IA minim
 
 ## Aperçu
 ```bash
-$ python -m Sabooter war
+
 Carte en main total:  24
 cpt_JoueurPeutJouer:  0
 Nombre de cartes dans la pioche:  43
