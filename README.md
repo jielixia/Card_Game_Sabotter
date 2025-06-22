@@ -1,7 +1,7 @@
 # Card_Game_Saboteur
 Card Game SabOOtter using Python (based on the card game Saboteur).
-**SabOOtter** est une implémentation orientée-objet de jeux de cartes classiques en Python 3.  
-Elle sert de base pédagogique : architecture claire, test unitaires et IA minimalistes.
+**SabOOtter** is an object-oriented implementation of classic card games in Python 3.
+It serves as a learning platform: clear architecture, minimalist unit testing, and AI.
 
 ## Aperçu
 ```bash
